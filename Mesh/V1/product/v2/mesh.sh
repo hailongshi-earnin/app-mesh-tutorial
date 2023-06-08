@@ -1,1 +1,0 @@
-aws appmesh create-virtual-node --cli-input-json file://product-v2-vn.json

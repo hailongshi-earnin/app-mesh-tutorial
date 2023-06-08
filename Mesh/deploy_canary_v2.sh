@@ -1,1 +1,0 @@
-aws appmesh update-route --cli-input-json file://V2/product/product-canary.json
